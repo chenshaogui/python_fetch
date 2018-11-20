@@ -14,7 +14,7 @@ dblist=myclient.list_database_names();
 db = myclient['video'];
 collection=db['nets_video'];
 
-domain="http://99f2d.com"
+domain="http://***********"
 #请求数据
 def get_response(url):
     headers={
